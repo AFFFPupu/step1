@@ -19,6 +19,8 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+
+favicon: 'https://freeimage.host/i/2QaaIRt'
 ---
 
 # 拓课堂 STEP 课程 
