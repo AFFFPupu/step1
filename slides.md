@@ -8,7 +8,7 @@ author: 拓课堂
 title: STEP课程 Lesson 1 Differentiation
 date: 2025
 info: |
-  STEP Lesson 2: Calculus: Integration
+  STEP Lesson 1: Calculus: Differentiation
 
 # apply unocss classes to the current slide
 class: text-center
@@ -16,7 +16,7 @@ class: text-center
 drawings:
   persist: false
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
-transition: slide-left
+transition: fade
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 
@@ -60,8 +60,6 @@ section: 'STEP 介绍'
 </div>
 
 ---
-transition: slide-up
----
 
 # 考试规范
 
@@ -90,8 +88,6 @@ transition: slide-up
     </div>
 </div>
 
----
-transition: fade-out
 ---
 
 # 评估与准备
@@ -1253,6 +1249,7 @@ Show that, if $a \geqslant \frac{9}{8}$, then $f'(x) \geqslant 0$ for all $x$.
 </style>
 
 ---
+
 # Solution: Function Analysis (STEP 2000 P1 Q7)
 
 <div class="grid grid-cols-2 gap-4">
@@ -1314,3 +1311,8 @@ Therefore, if $a \geqslant \frac{9}{8}$, then $f'(x) \geqslant 0$ for all $x$.
 }
 </style>
 
+---
+layout: fact
+---
+
+# 你好
